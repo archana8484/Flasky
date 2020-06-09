@@ -1,1 +1,15 @@
-
+{
+  "User1": {
+    "PersonalInfo" : {
+    "Username": "testuser2",
+    "Password": "testuser2",
+    "FirstName": "John",
+    "FamilyName": "Tester",
+    "PhoneNo": "0507898890"
+    },
+    "IncorrectLogin" : {
+    "Username": "testuser2",
+    "Password": "test"
+  }
+  }
+}
